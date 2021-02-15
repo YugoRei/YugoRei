@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YugoRei
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning JavaScript, Java, C++
+- 💞️ I’m looking to collaborate on Games, App, Data Structures
+- 📫 Reach me via Discord: Yugo Reinhard#5349
